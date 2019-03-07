@@ -24,7 +24,7 @@ namespace Practica
 
         private void Bprueba_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Hola Mundo.");
         }
     }
 }
